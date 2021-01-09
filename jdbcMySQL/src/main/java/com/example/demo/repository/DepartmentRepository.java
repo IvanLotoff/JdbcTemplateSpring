@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.Optional;
 
 public interface DepartmentRepository {
-    void save(Department department);
+    Department save(Department department);
     void update(Department department);
     void delete(long id);
 

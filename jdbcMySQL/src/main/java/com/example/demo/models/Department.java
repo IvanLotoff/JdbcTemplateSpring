@@ -12,7 +12,7 @@ import lombok.NoArgsConstructor;
 public class Department {
     private Long id;
     private String name;
-    private int number_of_employees;
+    private Integer number_of_employees;
     private Double average_salary;
     private Double profit_generated;
 }
