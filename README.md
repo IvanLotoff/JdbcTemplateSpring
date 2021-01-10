@@ -1,6 +1,6 @@
 # JdbcTemplateSpring
 Демнострационный проект, показывающий использование JdbcTemplate
-Features:
+# Features:
 1) JdbcTemplate
 2) MySql
 3) Custom Exceptions
